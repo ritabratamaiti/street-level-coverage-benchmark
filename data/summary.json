@@ -1,0 +1,270 @@
+{
+  "points": 120,
+  "covered": 33,
+  "without_coverage_pct": 72.5,
+  "without_coverage_95ci_pct": [
+    63.9,
+    79.7
+  ],
+  "by_continent": {
+    "Asia": {
+      "points": 56,
+      "covered": 13
+    },
+    "Africa": {
+      "points": 31,
+      "covered": 0
+    },
+    "South America": {
+      "points": 11,
+      "covered": 7
+    },
+    "North America": {
+      "points": 10,
+      "covered": 5
+    },
+    "Europe": {
+      "points": 8,
+      "covered": 5
+    },
+    "Oceania": {
+      "points": 4,
+      "covered": 3
+    }
+  },
+  "by_sampling_region": {
+    "Asia": {
+      "points": 38,
+      "covered": 6
+    },
+    "Africa": {
+      "points": 31,
+      "covered": 0
+    },
+    "South Asia": {
+      "points": 16,
+      "covered": 6
+    },
+    "South America": {
+      "points": 11,
+      "covered": 7
+    },
+    "North America": {
+      "points": 10,
+      "covered": 5
+    },
+    "Europe": {
+      "points": 6,
+      "covered": 5
+    },
+    "Oceania": {
+      "points": 4,
+      "covered": 3
+    },
+    "Southeast Asia": {
+      "points": 4,
+      "covered": 1
+    }
+  },
+  "by_country": {
+    "China": {
+      "points": 18,
+      "covered": 0
+    },
+    "India": {
+      "points": 16,
+      "covered": 10
+    },
+    "Brazil": {
+      "points": 8,
+      "covered": 4
+    },
+    "Russia": {
+      "points": 8,
+      "covered": 3
+    },
+    "United States": {
+      "points": 7,
+      "covered": 4
+    },
+    "Iran": {
+      "points": 5,
+      "covered": 0
+    },
+    "Australia": {
+      "points": 4,
+      "covered": 3
+    },
+    "Argentina": {
+      "points": 3,
+      "covered": 3
+    },
+    "Central African Republic": {
+      "points": 2,
+      "covered": 0
+    },
+    "Democratic Republic of the Congo": {
+      "points": 2,
+      "covered": 0
+    },
+    "Indonesia": {
+      "points": 2,
+      "covered": 1
+    },
+    "Libya": {
+      "points": 2,
+      "covered": 0
+    },
+    "Mali": {
+      "points": 2,
+      "covered": 0
+    },
+    "Morocco": {
+      "points": 2,
+      "covered": 0
+    },
+    "Pakistan": {
+      "points": 2,
+      "covered": 0
+    },
+    "Saudi Arabia": {
+      "points": 2,
+      "covered": 0
+    },
+    "Somalia": {
+      "points": 2,
+      "covered": 0
+    },
+    "Zambia": {
+      "points": 2,
+      "covered": 0
+    },
+    "Afghanistan": {
+      "points": 1,
+      "covered": 0
+    },
+    "Algeria": {
+      "points": 1,
+      "covered": 0
+    },
+    "Bahamas": {
+      "points": 1,
+      "covered": 0
+    },
+    "Botswana": {
+      "points": 1,
+      "covered": 0
+    },
+    "Bulgaria": {
+      "points": 1,
+      "covered": 1
+    },
+    "Canada": {
+      "points": 1,
+      "covered": 0
+    },
+    "Congo-Brazzaville": {
+      "points": 1,
+      "covered": 0
+    },
+    "Eritrea": {
+      "points": 1,
+      "covered": 0
+    },
+    "Ethiopia": {
+      "points": 1,
+      "covered": 0
+    },
+    "Gabon": {
+      "points": 1,
+      "covered": 0
+    },
+    "Ghana": {
+      "points": 1,
+      "covered": 0
+    },
+    "Guinea-Bissau": {
+      "points": 1,
+      "covered": 0
+    },
+    "Kazakhstan": {
+      "points": 1,
+      "covered": 0
+    },
+    "Laos": {
+      "points": 1,
+      "covered": 0
+    },
+    "Madagascar": {
+      "points": 1,
+      "covered": 0
+    },
+    "Mexico": {
+      "points": 1,
+      "covered": 1
+    },
+    "Mongolia": {
+      "points": 1,
+      "covered": 0
+    },
+    "Mozambique": {
+      "points": 1,
+      "covered": 0
+    },
+    "Myanmar": {
+      "points": 1,
+      "covered": 0
+    },
+    "Namibia": {
+      "points": 1,
+      "covered": 0
+    },
+    "Niger": {
+      "points": 1,
+      "covered": 0
+    },
+    "Nigeria": {
+      "points": 1,
+      "covered": 0
+    },
+    "Poland": {
+      "points": 1,
+      "covered": 1
+    },
+    "Somaliland": {
+      "points": 1,
+      "covered": 0
+    },
+    "Sudan": {
+      "points": 1,
+      "covered": 0
+    },
+    "Sweden": {
+      "points": 1,
+      "covered": 0
+    },
+    "Tanzania": {
+      "points": 1,
+      "covered": 0
+    },
+    "Thailand": {
+      "points": 1,
+      "covered": 1
+    },
+    "Vietnam": {
+      "points": 1,
+      "covered": 1
+    },
+    "Yemen": {
+      "points": 1,
+      "covered": 0
+    },
+    "Zimbabwe": {
+      "points": 1,
+      "covered": 0
+    }
+  },
+  "checked_on": [
+    "2026-09-19"
+  ]
+}

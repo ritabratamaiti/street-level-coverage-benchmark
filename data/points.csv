@@ -1,0 +1,121 @@
+id,lat,lon,highway,sampling_region,country_code,country,continent,covered,result,capture_date,checked_on
+0,54.7143801,17.2300118,residential,Europe,pl,Poland,Europe,true,official,,2026-09-19
+1,-17.6117192,17.3891681,unclassified,Africa,na,Namibia,Africa,false,none found,,2026-09-19
+2,28.9883729,68.0076639,tertiary,South Asia,pk,Pakistan,Asia,false,none found,,2026-09-19
+3,-30.2247082,149.4443123,residential,Oceania,au,Australia,Oceania,true,official,,2026-09-19
+4,9.5578969,50.2836364,unclassified,Asia,so,Somalia,Africa,false,none found,,2026-09-19
+5,28.7138636,85.3558554,residential,South Asia,cn,China,Asia,false,none found,,2026-09-19
+6,25.7323796,69.1802031,primary,South Asia,pk,Pakistan,Asia,false,none found,,2026-09-19
+7,-8.5553736,28.5520077,unclassified,Africa,cd,Democratic Republic of the Congo,Africa,false,none found,,2026-09-19
+8,17.3690235,99.0726470,tertiary,Asia,th,Thailand,Asia,true,official,,2026-09-19
+9,-13.5818129,-48.1186410,tertiary,South America,br,Brazil,South America,false,none found,,2026-09-19
+10,31.5683482,77.7490640,unclassified,South Asia,in,India,Asia,false,none found,,2026-09-19
+11,9.4105525,45.0623288,residential,Asia,so,Somaliland,Africa,false,none found,,2026-09-19
+12,10.3486366,78.0041916,secondary,Asia,in,India,Asia,true,official,,2026-09-19
+13,9.4734606,40.3802000,primary,Africa,et,Ethiopia,Africa,false,none found,,2026-09-19
+14,-3.2832930,13.7029225,secondary,Africa,cg,Congo-Brazzaville,Africa,false,none found,,2026-09-19
+15,-21.1405105,141.9439036,secondary,Oceania,au,Australia,Oceania,true,official,,2026-09-19
+16,27.5360602,47.2811137,residential,Africa,sa,Saudi Arabia,Asia,false,none found,,2026-09-19
+17,-16.4870765,28.3961526,unclassified,Africa,zm,Zambia,Africa,false,none found,,2026-09-19
+18,9.8883240,-1.2099193,secondary,Africa,gh,Ghana,Africa,false,none found,,2026-09-19
+19,-3.3647392,11.6757327,unclassified,Africa,ga,Gabon,Africa,false,none found,,2026-09-19
+20,34.8214039,-118.9603525,service,North America,us,United States,North America,true,official,,2026-09-19
+21,49.0832082,124.7444609,tertiary,Asia,cn,China,Asia,false,none found,,2026-09-19
+22,26.3969965,10.3797811,unclassified,Africa,ly,Libya,Africa,false,none found,,2026-09-19
+23,1.7908500,41.1832166,tertiary,Africa,so,Somalia,Africa,false,none found,,2026-09-19
+24,-12.4147466,49.0154868,unclassified,Africa,mg,Madagascar,Africa,false,none found,,2026-09-19
+25,23.4321317,77.9074699,service,South Asia,in,India,Asia,true,official,,2026-09-19
+26,8.6330913,21.2703319,primary,Africa,cf,Central African Republic,Africa,false,none found,,2026-09-19
+27,61.9183646,61.6311988,unclassified,Asia,ru,Russia,Asia,false,none found,,2026-09-19
+28,31.3102595,54.0781276,residential,Asia,ir,Iran,Asia,false,none found,,2026-09-19
+29,26.2940725,73.0388829,trunk,South Asia,in,India,Asia,true,official,,2026-09-19
+30,17.2078671,97.1339270,unclassified,Southeast Asia,mm,Myanmar,Asia,false,none found,,2026-09-19
+31,33.7560032,84.9701784,unclassified,Asia,cn,China,Asia,false,none found,,2026-09-19
+32,-8.4392516,29.3474061,tertiary,Africa,zm,Zambia,Africa,false,none found,,2026-09-19
+33,59.5382534,-120.9328356,tertiary,North America,ca,Canada,North America,false,none found,,2026-09-19
+34,31.2178243,41.8164170,service,Africa,sa,Saudi Arabia,Asia,false,none found,,2026-09-19
+35,34.6240865,-4.9047130,tertiary,Africa,ma,Morocco,Africa,false,none found,,2026-09-19
+36,-3.2195831,32.4952831,unclassified,Africa,tz,Tanzania,Africa,false,none found,,2026-09-19
+37,19.9904012,77.2977654,unclassified,South Asia,in,India,Asia,true,official,,2026-09-19
+38,25.5649301,71.1790689,secondary,Asia,in,India,Asia,true,official,,2026-09-19
+39,12.3513905,5.3239314,unclassified,Africa,ng,Nigeria,Africa,false,none found,,2026-09-19
+40,35.4668464,-6.0361763,tertiary,Africa,ma,Morocco,Africa,false,crowdsourced only,,2026-09-19
+41,27.6403580,62.3415233,residential,Asia,ir,Iran,Asia,false,none found,,2026-09-19
+42,-13.1614853,-48.1005317,unclassified,South America,br,Brazil,South America,false,none found,,2026-09-19
+43,-15.5181432,40.4561935,unclassified,Africa,mz,Mozambique,Africa,false,none found,,2026-09-19
+44,33.5288334,89.5001736,unclassified,South Asia,cn,China,Asia,false,none found,,2026-09-19
+45,37.9198400,-95.3874380,residential,North America,us,United States,North America,true,official,,2026-09-19
+46,26.0958728,13.5584533,residential,Africa,ly,Libya,Africa,false,none found,,2026-09-19
+47,33.3120507,54.3457532,primary,Asia,ir,Iran,Asia,false,none found,,2026-09-19
+48,33.4537627,83.6391919,tertiary,Asia,cn,China,Asia,false,none found,,2026-09-19
+49,57.7929831,128.0002985,unclassified,Asia,ru,Russia,Asia,false,none found,,2026-09-19
+50,41.8311301,82.4294465,primary,Asia,cn,China,Asia,false,none found,,2026-09-19
+51,17.8498764,78.6671054,residential,Asia,in,India,Asia,true,official,,2026-09-19
+52,33.3165394,-1.6421146,unclassified,Africa,dz,Algeria,Africa,false,none found,,2026-09-19
+53,23.9458606,-74.5591434,residential,North America,bs,Bahamas,North America,false,crowdsourced only,,2026-09-19
+54,33.0183061,81.7975389,primary,South Asia,cn,China,Asia,false,none found,,2026-09-19
+55,41.9699740,124.6122201,tertiary,Asia,cn,China,Asia,false,none found,,2026-09-19
+56,26.9677326,78.8133349,trunk,Asia,in,India,Asia,true,official,,2026-09-19
+57,-34.6513900,-59.4514895,residential,South America,ar,Argentina,South America,true,official,,2026-09-19
+58,-4.2573355,16.1881328,residential,Africa,cd,Democratic Republic of the Congo,Africa,false,none found,,2026-09-19
+59,27.2564370,116.9005448,primary,Asia,cn,China,Asia,false,none found,,2026-09-19
+60,20.2375651,72.7556578,secondary,South Asia,in,India,Asia,true,official,,2026-09-19
+61,47.1205777,112.4284816,tertiary,Asia,mn,Mongolia,Asia,false,none found,,2026-09-19
+62,32.6031978,84.4070316,tertiary,Asia,cn,China,Asia,false,none found,,2026-09-19
+63,28.2668970,72.3623564,tertiary,Asia,in,India,Asia,false,none found,,2026-09-19
+64,26.4998017,-99.5241407,residential,North America,mx,Mexico,North America,true,official,,2026-09-19
+65,-19.2070486,-43.1400275,tertiary,South America,br,Brazil,South America,true,official,,2026-09-19
+66,-18.3267561,-41.0398491,unclassified,South America,br,Brazil,South America,false,none found,,2026-09-19
+67,27.4832066,59.4522015,secondary,Asia,ir,Iran,Asia,false,none found,,2026-09-19
+68,41.6258510,23.1958190,residential,Europe,bg,Bulgaria,Europe,true,official,,2026-09-19
+69,28.5416738,73.4087466,unclassified,South Asia,in,India,Asia,false,none found,,2026-09-19
+70,36.3324537,70.7354258,unclassified,Asia,af,Afghanistan,Asia,false,none found,,2026-09-19
+71,47.3818340,-115.3995082,service,North America,us,United States,North America,false,none found,,2026-09-19
+72,41.6621633,-72.2277654,service,North America,us,United States,North America,true,official,,2026-09-19
+73,43.3114462,-91.4194941,residential,North America,us,United States,North America,false,none found,,2026-09-19
+74,13.8399759,30.5856907,unclassified,Africa,sd,Sudan,Africa,false,none found,,2026-09-19
+75,-17.1028761,28.9727819,unclassified,Africa,zw,Zimbabwe,Africa,false,none found,,2026-09-19
+76,19.9413624,103.4395991,unclassified,Southeast Asia,la,Laos,Asia,false,none found,,2026-09-19
+77,21.8900753,110.4552022,tertiary,Asia,cn,China,Asia,false,none found,,2026-09-19
+78,47.2451081,43.6973181,service,Asia,ru,Russia,Europe,false,none found,,2026-09-19
+79,38.7062331,93.3366489,primary,Asia,cn,China,Asia,false,none found,,2026-09-19
+80,51.1928280,36.2501599,trunk,Europe,ru,Russia,Europe,true,official,,2026-09-19
+81,-17.7274242,-48.1597418,residential,South America,br,Brazil,South America,true,official,,2026-09-19
+82,30.0503874,89.5516501,tertiary,Asia,cn,China,Asia,false,none found,,2026-09-19
+83,-19.8987321,23.8831294,unclassified,Africa,bw,Botswana,Africa,false,none found,,2026-09-19
+84,49.6067818,83.4668594,unclassified,Asia,kz,Kazakhstan,Asia,false,none found,,2026-09-19
+85,-35.5028343,138.2558631,secondary,Oceania,au,Australia,Oceania,true,official,,2026-09-19
+86,33.2578115,87.8419915,secondary,Asia,cn,China,Asia,false,none found,,2026-09-19
+87,-4.8635786,139.4849012,unclassified,Southeast Asia,id,Indonesia,Asia,false,none found,,2026-09-19
+88,28.6310514,115.8127615,trunk,Asia,cn,China,Asia,false,none found,,2026-09-19
+89,-25.4428716,-66.2926129,residential,South America,ar,Argentina,South America,true,official,,2026-09-19
+90,20.2023550,1.0129165,unclassified,Africa,ml,Mali,Africa,false,none found,,2026-09-19
+91,23.9260273,78.0832647,secondary,South Asia,in,India,Asia,true,official,,2026-09-19
+92,16.2240431,49.4416363,service,Asia,ye,Yemen,Asia,false,none found,,2026-09-19
+93,28.5243231,72.2719430,unclassified,South Asia,in,India,Asia,false,none found,,2026-09-19
+94,-38.0810743,-63.4292311,residential,South America,ar,Argentina,South America,true,official,,2026-09-19
+95,-1.2725687,121.2056324,trunk,Southeast Asia,id,Indonesia,Asia,true,official,,2026-09-19
+96,-3.1749824,-42.5608182,residential,South America,br,Brazil,South America,true,official,,2026-09-19
+97,-8.7464454,-66.7452827,unclassified,South America,br,Brazil,South America,false,none found,,2026-09-19
+98,61.2888383,14.1551913,unclassified,Europe,se,Sweden,Europe,false,none found,,2026-09-19
+99,19.0079384,-0.3937268,unclassified,Africa,ml,Mali,Africa,false,none found,,2026-09-19
+100,49.4186853,41.5278975,residential,Asia,ru,Russia,Europe,false,none found,,2026-09-19
+101,41.4188443,110.5330731,secondary,Asia,cn,China,Asia,false,none found,,2026-09-19
+102,-10.9180934,-37.6526313,tertiary,South America,br,Brazil,South America,true,official,,2026-09-19
+103,64.1890186,-155.4662951,unclassified,North America,us,United States,North America,false,none found,,2026-09-19
+104,30.6017147,50.2409591,secondary,Asia,ir,Iran,Asia,false,none found,,2026-09-19
+105,54.2491351,38.6506113,secondary,Europe,ru,Russia,Europe,true,official,,2026-09-19
+106,45.6185371,38.9414451,residential,Europe,ru,Russia,Europe,true,official,,2026-09-19
+107,29.2531948,73.5991296,unclassified,South Asia,in,India,Asia,false,none found,,2026-09-19
+108,11.8249742,-15.3271589,unclassified,Africa,gw,Guinea-Bissau,Africa,false,none found,,2026-09-19
+109,46.3077136,90.0675367,tertiary,Asia,cn,China,Asia,false,none found,,2026-09-19
+110,18.3157620,73.2492939,secondary,South Asia,in,India,Asia,true,official,,2026-09-19
+111,-25.1578369,143.0307215,unclassified,Oceania,au,Australia,Oceania,false,none found,,2026-09-19
+112,9.5994805,22.6576549,primary,Africa,cf,Central African Republic,Africa,false,none found,,2026-09-19
+113,14.6896373,40.9580183,residential,Africa,er,Eritrea,Africa,false,none found,,2026-09-19
+114,40.5549450,-74.2029100,residential,North America,us,United States,North America,true,official,,2026-09-19
+115,40.9301727,118.8588202,secondary,Asia,cn,China,Asia,false,none found,,2026-09-19
+116,57.7118042,83.5654958,residential,Asia,ru,Russia,Asia,false,none found,,2026-09-19
+117,11.8786455,106.6615807,primary,Asia,vn,Vietnam,Asia,true,official,,2026-09-19
+118,23.7800849,68.6678392,residential,South Asia,in,India,Asia,false,none found,,2026-09-19
+119,14.8493534,3.9254894,unclassified,Africa,ne,Niger,Africa,false,none found,,2026-09-19

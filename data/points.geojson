@@ -1,0 +1,2405 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     17.2300118,
+     54.7143801
+    ]
+   },
+   "properties": {
+    "id": 0,
+    "covered": true,
+    "result": "official",
+    "country": "Poland",
+    "continent": "Europe",
+    "highway": "residential",
+    "marker-color": "#2e7d32",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     17.3891681,
+     -17.6117192
+    ]
+   },
+   "properties": {
+    "id": 1,
+    "covered": false,
+    "result": "none found",
+    "country": "Namibia",
+    "continent": "Africa",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     68.0076639,
+     28.9883729
+    ]
+   },
+   "properties": {
+    "id": 2,
+    "covered": false,
+    "result": "none found",
+    "country": "Pakistan",
+    "continent": "Asia",
+    "highway": "tertiary",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.4443123,
+     -30.2247082
+    ]
+   },
+   "properties": {
+    "id": 3,
+    "covered": true,
+    "result": "official",
+    "country": "Australia",
+    "continent": "Oceania",
+    "highway": "residential",
+    "marker-color": "#2e7d32",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     50.2836364,
+     9.5578969
+    ]
+   },
+   "properties": {
+    "id": 4,
+    "covered": false,
+    "result": "none found",
+    "country": "Somalia",
+    "continent": "Africa",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.3558554,
+     28.7138636
+    ]
+   },
+   "properties": {
+    "id": 5,
+    "covered": false,
+    "result": "none found",
+    "country": "China",
+    "continent": "Asia",
+    "highway": "residential",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     69.1802031,
+     25.7323796
+    ]
+   },
+   "properties": {
+    "id": 6,
+    "covered": false,
+    "result": "none found",
+    "country": "Pakistan",
+    "continent": "Asia",
+    "highway": "primary",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.5520077,
+     -8.5553736
+    ]
+   },
+   "properties": {
+    "id": 7,
+    "covered": false,
+    "result": "none found",
+    "country": "Democratic Republic of the Congo",
+    "continent": "Africa",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     99.072647,
+     17.3690235
+    ]
+   },
+   "properties": {
+    "id": 8,
+    "covered": true,
+    "result": "official",
+    "country": "Thailand",
+    "continent": "Asia",
+    "highway": "tertiary",
+    "marker-color": "#2e7d32",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -48.118641,
+     -13.5818129
+    ]
+   },
+   "properties": {
+    "id": 9,
+    "covered": false,
+    "result": "none found",
+    "country": "Brazil",
+    "continent": "South America",
+    "highway": "tertiary",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     77.749064,
+     31.5683482
+    ]
+   },
+   "properties": {
+    "id": 10,
+    "covered": false,
+    "result": "none found",
+    "country": "India",
+    "continent": "Asia",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     45.0623288,
+     9.4105525
+    ]
+   },
+   "properties": {
+    "id": 11,
+    "covered": false,
+    "result": "none found",
+    "country": "Somaliland",
+    "continent": "Africa",
+    "highway": "residential",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.0041916,
+     10.3486366
+    ]
+   },
+   "properties": {
+    "id": 12,
+    "covered": true,
+    "result": "official",
+    "country": "India",
+    "continent": "Asia",
+    "highway": "secondary",
+    "marker-color": "#2e7d32",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     40.3802,
+     9.4734606
+    ]
+   },
+   "properties": {
+    "id": 13,
+    "covered": false,
+    "result": "none found",
+    "country": "Ethiopia",
+    "continent": "Africa",
+    "highway": "primary",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.7029225,
+     -3.283293
+    ]
+   },
+   "properties": {
+    "id": 14,
+    "covered": false,
+    "result": "none found",
+    "country": "Congo-Brazzaville",
+    "continent": "Africa",
+    "highway": "secondary",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.9439036,
+     -21.1405105
+    ]
+   },
+   "properties": {
+    "id": 15,
+    "covered": true,
+    "result": "official",
+    "country": "Australia",
+    "continent": "Oceania",
+    "highway": "secondary",
+    "marker-color": "#2e7d32",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     47.2811137,
+     27.5360602
+    ]
+   },
+   "properties": {
+    "id": 16,
+    "covered": false,
+    "result": "none found",
+    "country": "Saudi Arabia",
+    "continent": "Asia",
+    "highway": "residential",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.3961526,
+     -16.4870765
+    ]
+   },
+   "properties": {
+    "id": 17,
+    "covered": false,
+    "result": "none found",
+    "country": "Zambia",
+    "continent": "Africa",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.2099193,
+     9.888324
+    ]
+   },
+   "properties": {
+    "id": 18,
+    "covered": false,
+    "result": "none found",
+    "country": "Ghana",
+    "continent": "Africa",
+    "highway": "secondary",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.6757327,
+     -3.3647392
+    ]
+   },
+   "properties": {
+    "id": 19,
+    "covered": false,
+    "result": "none found",
+    "country": "Gabon",
+    "continent": "Africa",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.9603525,
+     34.8214039
+    ]
+   },
+   "properties": {
+    "id": 20,
+    "covered": true,
+    "result": "official",
+    "country": "United States",
+    "continent": "North America",
+    "highway": "service",
+    "marker-color": "#2e7d32",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.7444609,
+     49.0832082
+    ]
+   },
+   "properties": {
+    "id": 21,
+    "covered": false,
+    "result": "none found",
+    "country": "China",
+    "continent": "Asia",
+    "highway": "tertiary",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     10.3797811,
+     26.3969965
+    ]
+   },
+   "properties": {
+    "id": 22,
+    "covered": false,
+    "result": "none found",
+    "country": "Libya",
+    "continent": "Africa",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     41.1832166,
+     1.79085
+    ]
+   },
+   "properties": {
+    "id": 23,
+    "covered": false,
+    "result": "none found",
+    "country": "Somalia",
+    "continent": "Africa",
+    "highway": "tertiary",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     49.0154868,
+     -12.4147466
+    ]
+   },
+   "properties": {
+    "id": 24,
+    "covered": false,
+    "result": "none found",
+    "country": "Madagascar",
+    "continent": "Africa",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     77.9074699,
+     23.4321317
+    ]
+   },
+   "properties": {
+    "id": 25,
+    "covered": true,
+    "result": "official",
+    "country": "India",
+    "continent": "Asia",
+    "highway": "service",
+    "marker-color": "#2e7d32",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     21.2703319,
+     8.6330913
+    ]
+   },
+   "properties": {
+    "id": 26,
+    "covered": false,
+    "result": "none found",
+    "country": "Central African Republic",
+    "continent": "Africa",
+    "highway": "primary",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     61.6311988,
+     61.9183646
+    ]
+   },
+   "properties": {
+    "id": 27,
+    "covered": false,
+    "result": "none found",
+    "country": "Russia",
+    "continent": "Asia",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     54.0781276,
+     31.3102595
+    ]
+   },
+   "properties": {
+    "id": 28,
+    "covered": false,
+    "result": "none found",
+    "country": "Iran",
+    "continent": "Asia",
+    "highway": "residential",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.0388829,
+     26.2940725
+    ]
+   },
+   "properties": {
+    "id": 29,
+    "covered": true,
+    "result": "official",
+    "country": "India",
+    "continent": "Asia",
+    "highway": "trunk",
+    "marker-color": "#2e7d32",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     97.133927,
+     17.2078671
+    ]
+   },
+   "properties": {
+    "id": 30,
+    "covered": false,
+    "result": "none found",
+    "country": "Myanmar",
+    "continent": "Asia",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.9701784,
+     33.7560032
+    ]
+   },
+   "properties": {
+    "id": 31,
+    "covered": false,
+    "result": "none found",
+    "country": "China",
+    "continent": "Asia",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.3474061,
+     -8.4392516
+    ]
+   },
+   "properties": {
+    "id": 32,
+    "covered": false,
+    "result": "none found",
+    "country": "Zambia",
+    "continent": "Africa",
+    "highway": "tertiary",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.9328356,
+     59.5382534
+    ]
+   },
+   "properties": {
+    "id": 33,
+    "covered": false,
+    "result": "none found",
+    "country": "Canada",
+    "continent": "North America",
+    "highway": "tertiary",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     41.816417,
+     31.2178243
+    ]
+   },
+   "properties": {
+    "id": 34,
+    "covered": false,
+    "result": "none found",
+    "country": "Saudi Arabia",
+    "continent": "Asia",
+    "highway": "service",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.904713,
+     34.6240865
+    ]
+   },
+   "properties": {
+    "id": 35,
+    "covered": false,
+    "result": "none found",
+    "country": "Morocco",
+    "continent": "Africa",
+    "highway": "tertiary",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.4952831,
+     -3.2195831
+    ]
+   },
+   "properties": {
+    "id": 36,
+    "covered": false,
+    "result": "none found",
+    "country": "Tanzania",
+    "continent": "Africa",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     77.2977654,
+     19.9904012
+    ]
+   },
+   "properties": {
+    "id": 37,
+    "covered": true,
+    "result": "official",
+    "country": "India",
+    "continent": "Asia",
+    "highway": "unclassified",
+    "marker-color": "#2e7d32",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     71.1790689,
+     25.5649301
+    ]
+   },
+   "properties": {
+    "id": 38,
+    "covered": true,
+    "result": "official",
+    "country": "India",
+    "continent": "Asia",
+    "highway": "secondary",
+    "marker-color": "#2e7d32",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.3239314,
+     12.3513905
+    ]
+   },
+   "properties": {
+    "id": 39,
+    "covered": false,
+    "result": "none found",
+    "country": "Nigeria",
+    "continent": "Africa",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.0361763,
+     35.4668464
+    ]
+   },
+   "properties": {
+    "id": 40,
+    "covered": false,
+    "result": "crowdsourced only",
+    "country": "Morocco",
+    "continent": "Africa",
+    "highway": "tertiary",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     62.3415233,
+     27.640358
+    ]
+   },
+   "properties": {
+    "id": 41,
+    "covered": false,
+    "result": "none found",
+    "country": "Iran",
+    "continent": "Asia",
+    "highway": "residential",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -48.1005317,
+     -13.1614853
+    ]
+   },
+   "properties": {
+    "id": 42,
+    "covered": false,
+    "result": "none found",
+    "country": "Brazil",
+    "continent": "South America",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     40.4561935,
+     -15.5181432
+    ]
+   },
+   "properties": {
+    "id": 43,
+    "covered": false,
+    "result": "none found",
+    "country": "Mozambique",
+    "continent": "Africa",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     89.5001736,
+     33.5288334
+    ]
+   },
+   "properties": {
+    "id": 44,
+    "covered": false,
+    "result": "none found",
+    "country": "China",
+    "continent": "Asia",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.387438,
+     37.91984
+    ]
+   },
+   "properties": {
+    "id": 45,
+    "covered": true,
+    "result": "official",
+    "country": "United States",
+    "continent": "North America",
+    "highway": "residential",
+    "marker-color": "#2e7d32",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.5584533,
+     26.0958728
+    ]
+   },
+   "properties": {
+    "id": 46,
+    "covered": false,
+    "result": "none found",
+    "country": "Libya",
+    "continent": "Africa",
+    "highway": "residential",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     54.3457532,
+     33.3120507
+    ]
+   },
+   "properties": {
+    "id": 47,
+    "covered": false,
+    "result": "none found",
+    "country": "Iran",
+    "continent": "Asia",
+    "highway": "primary",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.6391919,
+     33.4537627
+    ]
+   },
+   "properties": {
+    "id": 48,
+    "covered": false,
+    "result": "none found",
+    "country": "China",
+    "continent": "Asia",
+    "highway": "tertiary",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     128.0002985,
+     57.7929831
+    ]
+   },
+   "properties": {
+    "id": 49,
+    "covered": false,
+    "result": "none found",
+    "country": "Russia",
+    "continent": "Asia",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     82.4294465,
+     41.8311301
+    ]
+   },
+   "properties": {
+    "id": 50,
+    "covered": false,
+    "result": "none found",
+    "country": "China",
+    "continent": "Asia",
+    "highway": "primary",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.6671054,
+     17.8498764
+    ]
+   },
+   "properties": {
+    "id": 51,
+    "covered": true,
+    "result": "official",
+    "country": "India",
+    "continent": "Asia",
+    "highway": "residential",
+    "marker-color": "#2e7d32",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.6421146,
+     33.3165394
+    ]
+   },
+   "properties": {
+    "id": 52,
+    "covered": false,
+    "result": "none found",
+    "country": "Algeria",
+    "continent": "Africa",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.5591434,
+     23.9458606
+    ]
+   },
+   "properties": {
+    "id": 53,
+    "covered": false,
+    "result": "crowdsourced only",
+    "country": "Bahamas",
+    "continent": "North America",
+    "highway": "residential",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     81.7975389,
+     33.0183061
+    ]
+   },
+   "properties": {
+    "id": 54,
+    "covered": false,
+    "result": "none found",
+    "country": "China",
+    "continent": "Asia",
+    "highway": "primary",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     124.6122201,
+     41.969974
+    ]
+   },
+   "properties": {
+    "id": 55,
+    "covered": false,
+    "result": "none found",
+    "country": "China",
+    "continent": "Asia",
+    "highway": "tertiary",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.8133349,
+     26.9677326
+    ]
+   },
+   "properties": {
+    "id": 56,
+    "covered": true,
+    "result": "official",
+    "country": "India",
+    "continent": "Asia",
+    "highway": "trunk",
+    "marker-color": "#2e7d32",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -59.4514895,
+     -34.65139
+    ]
+   },
+   "properties": {
+    "id": 57,
+    "covered": true,
+    "result": "official",
+    "country": "Argentina",
+    "continent": "South America",
+    "highway": "residential",
+    "marker-color": "#2e7d32",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     16.1881328,
+     -4.2573355
+    ]
+   },
+   "properties": {
+    "id": 58,
+    "covered": false,
+    "result": "none found",
+    "country": "Democratic Republic of the Congo",
+    "continent": "Africa",
+    "highway": "residential",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.9005448,
+     27.256437
+    ]
+   },
+   "properties": {
+    "id": 59,
+    "covered": false,
+    "result": "none found",
+    "country": "China",
+    "continent": "Asia",
+    "highway": "primary",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.7556578,
+     20.2375651
+    ]
+   },
+   "properties": {
+    "id": 60,
+    "covered": true,
+    "result": "official",
+    "country": "India",
+    "continent": "Asia",
+    "highway": "secondary",
+    "marker-color": "#2e7d32",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.4284816,
+     47.1205777
+    ]
+   },
+   "properties": {
+    "id": 61,
+    "covered": false,
+    "result": "none found",
+    "country": "Mongolia",
+    "continent": "Asia",
+    "highway": "tertiary",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.4070316,
+     32.6031978
+    ]
+   },
+   "properties": {
+    "id": 62,
+    "covered": false,
+    "result": "none found",
+    "country": "China",
+    "continent": "Asia",
+    "highway": "tertiary",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.3623564,
+     28.266897
+    ]
+   },
+   "properties": {
+    "id": 63,
+    "covered": false,
+    "result": "none found",
+    "country": "India",
+    "continent": "Asia",
+    "highway": "tertiary",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.5241407,
+     26.4998017
+    ]
+   },
+   "properties": {
+    "id": 64,
+    "covered": true,
+    "result": "official",
+    "country": "Mexico",
+    "continent": "North America",
+    "highway": "residential",
+    "marker-color": "#2e7d32",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.1400275,
+     -19.2070486
+    ]
+   },
+   "properties": {
+    "id": 65,
+    "covered": true,
+    "result": "official",
+    "country": "Brazil",
+    "continent": "South America",
+    "highway": "tertiary",
+    "marker-color": "#2e7d32",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -41.0398491,
+     -18.3267561
+    ]
+   },
+   "properties": {
+    "id": 66,
+    "covered": false,
+    "result": "none found",
+    "country": "Brazil",
+    "continent": "South America",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     59.4522015,
+     27.4832066
+    ]
+   },
+   "properties": {
+    "id": 67,
+    "covered": false,
+    "result": "none found",
+    "country": "Iran",
+    "continent": "Asia",
+    "highway": "secondary",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     23.195819,
+     41.625851
+    ]
+   },
+   "properties": {
+    "id": 68,
+    "covered": true,
+    "result": "official",
+    "country": "Bulgaria",
+    "continent": "Europe",
+    "highway": "residential",
+    "marker-color": "#2e7d32",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.4087466,
+     28.5416738
+    ]
+   },
+   "properties": {
+    "id": 69,
+    "covered": false,
+    "result": "none found",
+    "country": "India",
+    "continent": "Asia",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     70.7354258,
+     36.3324537
+    ]
+   },
+   "properties": {
+    "id": 70,
+    "covered": false,
+    "result": "none found",
+    "country": "Afghanistan",
+    "continent": "Asia",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.3995082,
+     47.381834
+    ]
+   },
+   "properties": {
+    "id": 71,
+    "covered": false,
+    "result": "none found",
+    "country": "United States",
+    "continent": "North America",
+    "highway": "service",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.2277654,
+     41.6621633
+    ]
+   },
+   "properties": {
+    "id": 72,
+    "covered": true,
+    "result": "official",
+    "country": "United States",
+    "continent": "North America",
+    "highway": "service",
+    "marker-color": "#2e7d32",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.4194941,
+     43.3114462
+    ]
+   },
+   "properties": {
+    "id": 73,
+    "covered": false,
+    "result": "none found",
+    "country": "United States",
+    "continent": "North America",
+    "highway": "residential",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.5856907,
+     13.8399759
+    ]
+   },
+   "properties": {
+    "id": 74,
+    "covered": false,
+    "result": "none found",
+    "country": "Sudan",
+    "continent": "Africa",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.9727819,
+     -17.1028761
+    ]
+   },
+   "properties": {
+    "id": 75,
+    "covered": false,
+    "result": "none found",
+    "country": "Zimbabwe",
+    "continent": "Africa",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.4395991,
+     19.9413624
+    ]
+   },
+   "properties": {
+    "id": 76,
+    "covered": false,
+    "result": "none found",
+    "country": "Laos",
+    "continent": "Asia",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.4552022,
+     21.8900753
+    ]
+   },
+   "properties": {
+    "id": 77,
+    "covered": false,
+    "result": "none found",
+    "country": "China",
+    "continent": "Asia",
+    "highway": "tertiary",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     43.6973181,
+     47.2451081
+    ]
+   },
+   "properties": {
+    "id": 78,
+    "covered": false,
+    "result": "none found",
+    "country": "Russia",
+    "continent": "Europe",
+    "highway": "service",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     93.3366489,
+     38.7062331
+    ]
+   },
+   "properties": {
+    "id": 79,
+    "covered": false,
+    "result": "none found",
+    "country": "China",
+    "continent": "Asia",
+    "highway": "primary",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.2501599,
+     51.192828
+    ]
+   },
+   "properties": {
+    "id": 80,
+    "covered": true,
+    "result": "official",
+    "country": "Russia",
+    "continent": "Europe",
+    "highway": "trunk",
+    "marker-color": "#2e7d32",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -48.1597418,
+     -17.7274242
+    ]
+   },
+   "properties": {
+    "id": 81,
+    "covered": true,
+    "result": "official",
+    "country": "Brazil",
+    "continent": "South America",
+    "highway": "residential",
+    "marker-color": "#2e7d32",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     89.5516501,
+     30.0503874
+    ]
+   },
+   "properties": {
+    "id": 82,
+    "covered": false,
+    "result": "none found",
+    "country": "China",
+    "continent": "Asia",
+    "highway": "tertiary",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     23.8831294,
+     -19.8987321
+    ]
+   },
+   "properties": {
+    "id": 83,
+    "covered": false,
+    "result": "none found",
+    "country": "Botswana",
+    "continent": "Africa",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.4668594,
+     49.6067818
+    ]
+   },
+   "properties": {
+    "id": 84,
+    "covered": false,
+    "result": "none found",
+    "country": "Kazakhstan",
+    "continent": "Asia",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.2558631,
+     -35.5028343
+    ]
+   },
+   "properties": {
+    "id": 85,
+    "covered": true,
+    "result": "official",
+    "country": "Australia",
+    "continent": "Oceania",
+    "highway": "secondary",
+    "marker-color": "#2e7d32",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     87.8419915,
+     33.2578115
+    ]
+   },
+   "properties": {
+    "id": 86,
+    "covered": false,
+    "result": "none found",
+    "country": "China",
+    "continent": "Asia",
+    "highway": "secondary",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4849012,
+     -4.8635786
+    ]
+   },
+   "properties": {
+    "id": 87,
+    "covered": false,
+    "result": "none found",
+    "country": "Indonesia",
+    "continent": "Asia",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.8127615,
+     28.6310514
+    ]
+   },
+   "properties": {
+    "id": 88,
+    "covered": false,
+    "result": "none found",
+    "country": "China",
+    "continent": "Asia",
+    "highway": "trunk",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -66.2926129,
+     -25.4428716
+    ]
+   },
+   "properties": {
+    "id": 89,
+    "covered": true,
+    "result": "official",
+    "country": "Argentina",
+    "continent": "South America",
+    "highway": "residential",
+    "marker-color": "#2e7d32",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.0129165,
+     20.202355
+    ]
+   },
+   "properties": {
+    "id": 90,
+    "covered": false,
+    "result": "none found",
+    "country": "Mali",
+    "continent": "Africa",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.0832647,
+     23.9260273
+    ]
+   },
+   "properties": {
+    "id": 91,
+    "covered": true,
+    "result": "official",
+    "country": "India",
+    "continent": "Asia",
+    "highway": "secondary",
+    "marker-color": "#2e7d32",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     49.4416363,
+     16.2240431
+    ]
+   },
+   "properties": {
+    "id": 92,
+    "covered": false,
+    "result": "none found",
+    "country": "Yemen",
+    "continent": "Asia",
+    "highway": "service",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.271943,
+     28.5243231
+    ]
+   },
+   "properties": {
+    "id": 93,
+    "covered": false,
+    "result": "none found",
+    "country": "India",
+    "continent": "Asia",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -63.4292311,
+     -38.0810743
+    ]
+   },
+   "properties": {
+    "id": 94,
+    "covered": true,
+    "result": "official",
+    "country": "Argentina",
+    "continent": "South America",
+    "highway": "residential",
+    "marker-color": "#2e7d32",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.2056324,
+     -1.2725687
+    ]
+   },
+   "properties": {
+    "id": 95,
+    "covered": true,
+    "result": "official",
+    "country": "Indonesia",
+    "continent": "Asia",
+    "highway": "trunk",
+    "marker-color": "#2e7d32",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -42.5608182,
+     -3.1749824
+    ]
+   },
+   "properties": {
+    "id": 96,
+    "covered": true,
+    "result": "official",
+    "country": "Brazil",
+    "continent": "South America",
+    "highway": "residential",
+    "marker-color": "#2e7d32",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -66.7452827,
+     -8.7464454
+    ]
+   },
+   "properties": {
+    "id": 97,
+    "covered": false,
+    "result": "none found",
+    "country": "Brazil",
+    "continent": "South America",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.1551913,
+     61.2888383
+    ]
+   },
+   "properties": {
+    "id": 98,
+    "covered": false,
+    "result": "none found",
+    "country": "Sweden",
+    "continent": "Europe",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.3937268,
+     19.0079384
+    ]
+   },
+   "properties": {
+    "id": 99,
+    "covered": false,
+    "result": "none found",
+    "country": "Mali",
+    "continent": "Africa",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     41.5278975,
+     49.4186853
+    ]
+   },
+   "properties": {
+    "id": 100,
+    "covered": false,
+    "result": "none found",
+    "country": "Russia",
+    "continent": "Europe",
+    "highway": "residential",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.5330731,
+     41.4188443
+    ]
+   },
+   "properties": {
+    "id": 101,
+    "covered": false,
+    "result": "none found",
+    "country": "China",
+    "continent": "Asia",
+    "highway": "secondary",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -37.6526313,
+     -10.9180934
+    ]
+   },
+   "properties": {
+    "id": 102,
+    "covered": true,
+    "result": "official",
+    "country": "Brazil",
+    "continent": "South America",
+    "highway": "tertiary",
+    "marker-color": "#2e7d32",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -155.4662951,
+     64.1890186
+    ]
+   },
+   "properties": {
+    "id": 103,
+    "covered": false,
+    "result": "none found",
+    "country": "United States",
+    "continent": "North America",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     50.2409591,
+     30.6017147
+    ]
+   },
+   "properties": {
+    "id": 104,
+    "covered": false,
+    "result": "none found",
+    "country": "Iran",
+    "continent": "Asia",
+    "highway": "secondary",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.6506113,
+     54.2491351
+    ]
+   },
+   "properties": {
+    "id": 105,
+    "covered": true,
+    "result": "official",
+    "country": "Russia",
+    "continent": "Europe",
+    "highway": "secondary",
+    "marker-color": "#2e7d32",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.9414451,
+     45.6185371
+    ]
+   },
+   "properties": {
+    "id": 106,
+    "covered": true,
+    "result": "official",
+    "country": "Russia",
+    "continent": "Europe",
+    "highway": "residential",
+    "marker-color": "#2e7d32",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.5991296,
+     29.2531948
+    ]
+   },
+   "properties": {
+    "id": 107,
+    "covered": false,
+    "result": "none found",
+    "country": "India",
+    "continent": "Asia",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -15.3271589,
+     11.8249742
+    ]
+   },
+   "properties": {
+    "id": 108,
+    "covered": false,
+    "result": "none found",
+    "country": "Guinea-Bissau",
+    "continent": "Africa",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.0675367,
+     46.3077136
+    ]
+   },
+   "properties": {
+    "id": 109,
+    "covered": false,
+    "result": "none found",
+    "country": "China",
+    "continent": "Asia",
+    "highway": "tertiary",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.2492939,
+     18.315762
+    ]
+   },
+   "properties": {
+    "id": 110,
+    "covered": true,
+    "result": "official",
+    "country": "India",
+    "continent": "Asia",
+    "highway": "secondary",
+    "marker-color": "#2e7d32",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.0307215,
+     -25.1578369
+    ]
+   },
+   "properties": {
+    "id": 111,
+    "covered": false,
+    "result": "none found",
+    "country": "Australia",
+    "continent": "Oceania",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.6576549,
+     9.5994805
+    ]
+   },
+   "properties": {
+    "id": 112,
+    "covered": false,
+    "result": "none found",
+    "country": "Central African Republic",
+    "continent": "Africa",
+    "highway": "primary",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     40.9580183,
+     14.6896373
+    ]
+   },
+   "properties": {
+    "id": 113,
+    "covered": false,
+    "result": "none found",
+    "country": "Eritrea",
+    "continent": "Africa",
+    "highway": "residential",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.20291,
+     40.554945
+    ]
+   },
+   "properties": {
+    "id": 114,
+    "covered": true,
+    "result": "official",
+    "country": "United States",
+    "continent": "North America",
+    "highway": "residential",
+    "marker-color": "#2e7d32",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.8588202,
+     40.9301727
+    ]
+   },
+   "properties": {
+    "id": 115,
+    "covered": false,
+    "result": "none found",
+    "country": "China",
+    "continent": "Asia",
+    "highway": "secondary",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.5654958,
+     57.7118042
+    ]
+   },
+   "properties": {
+    "id": 116,
+    "covered": false,
+    "result": "none found",
+    "country": "Russia",
+    "continent": "Asia",
+    "highway": "residential",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.6615807,
+     11.8786455
+    ]
+   },
+   "properties": {
+    "id": 117,
+    "covered": true,
+    "result": "official",
+    "country": "Vietnam",
+    "continent": "Asia",
+    "highway": "primary",
+    "marker-color": "#2e7d32",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     68.6678392,
+     23.7800849
+    ]
+   },
+   "properties": {
+    "id": 118,
+    "covered": false,
+    "result": "none found",
+    "country": "India",
+    "continent": "Asia",
+    "highway": "residential",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.9254894,
+     14.8493534
+    ]
+   },
+   "properties": {
+    "id": 119,
+    "covered": false,
+    "result": "none found",
+    "country": "Niger",
+    "continent": "Africa",
+    "highway": "unclassified",
+    "marker-color": "#c62828",
+    "marker-size": "small"
+   }
+  }
+ ]
+}
